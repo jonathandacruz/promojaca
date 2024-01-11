@@ -6,7 +6,11 @@ Author  : Surjith S M
 URI     : https://surjithctly.in/
 
 Copyright © All rights Reserved 
-
+<<<<<<< HEAD
+ 
+=======
+   sss qweqw
+>>>>>>> d4aa76b (ssss)
 */
 
 $(function() {
