@@ -6,7 +6,7 @@ Author  : Surjith S M
 URI     : https://surjithctly.in/
 
 Copyright © All rights Reserved 
-   sss qweqw
+ 
 */
 
 $(function() {
